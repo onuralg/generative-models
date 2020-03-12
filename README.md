@@ -21,3 +21,41 @@ __Generative Adversarial Networks__
 - Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [[PDF]](https://arxiv.org/pdf/1511.06434.pdf)
 
 
+
+
+Sanjeev Arora et al. ICML 2017
+
+Metz et al, 2016
+
+
+Improve GAN Training
+T. Salimans, I. Goodfellow, W. Zaremba, V. Cheung, A. Radford, X. Chen,
+“Improved techniques for training GANs”, NIPS 2016
+
+A. Srivastava, T. Ofister, O. Tuzel, J. Susskind, W. Wang, R. Webb, “Learning from
+Simulated and Unsupervised Images through adversarial training”. CVPR’17
+
+Junbo Zhao, Michael Mathieu, Yann LeCun, “Energy-based generative adversarial
+networks,” ICLR 2017
+
+X. Mao, Q. Li, H. Xie, R. Lau, Z. Wang, “Least squares generative adversarial
+networks” 2016
+
+M. Arjovsky, S. Chintala, L. Bottou “Wasserstein GAN” 2016
+
+David Berthelot, Thomas Schumm, Luke Metz, “Boundary equilibrium generative
+adversarial networks” 2017
+
+L. Metz, B. Poole, D. Pfau, J. Sohl-Dickstein, “Unrolled generative adversarial
+networks” ICLR 2017
+
+I. Gulrajani, F. Ahmed, M. Arjovsky, V. Domoulin, A. Courville “Improved Training of
+Wasserstein GANs” 2017
+
+N. Kodali, J. Abernethy, J. Hays, Z. Kira “How to train your DRAGAN” 2017
+
+E. Denton, S. Chintala, A. Szlam, R. Fergus “Deep Generative Image Models
+using a Laplacian Pyramid of Adversarial Networks” NIPS 2015
+
+
+
